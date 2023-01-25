@@ -1,4 +1,5 @@
 # JavaVerktygLab1
 Duck  
-Moose  
-Cat
+Mouse  
+Cat  
+Dog
