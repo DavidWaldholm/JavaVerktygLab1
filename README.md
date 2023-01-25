@@ -1,4 +1,4 @@
 # JavaVerktygLab1
 Duck  
-Moose  
+Mahmut  
 Cat
